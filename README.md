@@ -24,7 +24,7 @@ Me chamo Mateus Antony, tenho 22 anos e sou natural da Bahia. Atualmente, estou 
 
 ### 📊 Estatísticas
 
-
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -33,18 +33,15 @@ Me chamo Mateus Antony, tenho 22 anos e sou natural da Bahia. Atualmente, estou 
     src="https://github-readme-stats.vercel.app/api?username=MateusAntony&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br" 
     alt="GitHub Stats"
   />
-<br/>
-<br/>
-<br/>
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAntony&langs_count=10&layout=compact&theme=tokyonight&locale=pt-br" 
-    alt="Top Langs"
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAntony&langs_count=10&layout=compact&theme=tokyonight&locale=pt-br" 
+      alt="Top Langs"
   />
 
-
+</p>
 
 
