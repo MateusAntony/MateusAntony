@@ -34,6 +34,8 @@ Me chamo Mateus Antony, tenho 22 anos e sou natural da Bahia. Atualmente, estou 
     alt="GitHub Stats"
   />
 <br/>
+<br/>
+<br/>
 
   <img 
     align="left" 
