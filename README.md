@@ -15,6 +15,7 @@ Me chamo Mateus Antony, tenho 22 anos e sou natural da Bahia. Atualmente, estou 
    <img aling="center" alt="nodejs" src= https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>
    <img aling="center" alt="flask" src= https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white>
    <img aling="center" alt="figma" src= https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white>
+  <img aling="center" alt="Java" src= https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit>
    
 </div>
 
@@ -29,14 +30,16 @@ Me chamo Mateus Antony, tenho 22 anos e sou natural da Bahia. Atualmente, estou 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MateusAntony&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=MateusAntony&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br" 
+    alt="GitHub Stats"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAntony&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAntony&langs_count=10&layout=compact&theme=tokyonight&locale=pt-br" 
+      alt="Top Langs"
   />
 
 </p>
