@@ -35,7 +35,7 @@ Me chamo Mateus Antony, tenho 22 anos e sou natural da Bahia. Atualmente, estou 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="!https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" 
   />
 
 </p>
