@@ -24,7 +24,6 @@ Me chamo Mateus Antony, tenho 22 anos e sou natural da Bahia. Atualmente, estou 
 
 ### 📊 Estatísticas
 
-<p style="display: flex; justify-content: space-between;">
 
   <img 
     align="left" 
@@ -44,7 +43,6 @@ Me chamo Mateus Antony, tenho 22 anos e sou natural da Bahia. Atualmente, estou 
     alt="Top Langs"
   />
 
-</p>
 
 
 
