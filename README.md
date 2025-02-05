@@ -1,47 +1,49 @@
-# Mateus Antony
+<h2 align="left">Sobre Mim</h2>
 
+###
 
-Me chamo Mateus Antony, tenho 22 anos e sou natural da Bahia. Atualmente, estou cursando Engenharia de Computação na UEFS. 
+<p align="left">## Olá! 👋 Me chamo Mateus Antony  <br><br>🗺️ Tenho 22 anos e sou natural da Bahia.  <br>🎓 Atualmente, estou cursando Engenharia de Computação na UEFS.  <br>💻 Estudando Java e elaborando aplicações com Spring Boot.  <br>📊 Em breve, quero explorar mais sobre Ciência de Dados e Engenharia de Dados.</p>
 
----
+###
 
-### Linguagens e Tecnologias
+<h2 align="left">Tecnologias</h2>
 
-<div style="display: inline_block"> <br/>
-    <img aling="center" alt="html5" src= https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
-   <img aling="center" alt="css3" src= https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
-   <img aling="center" alt="javascript" src= https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
-   <img aling="center" alt="python" src= https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
-   <img aling="center" alt="nodejs" src= https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>
-   <img aling="center" alt="flask" src= https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white>
-   <img aling="center" alt="figma" src= https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white>
-  <img aling="center" alt="Java" src= https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit>
-   
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-<br/>
-<br/>
+###
 
-### 📊 Estatísticas
+<h2 align="left">Estatísticas</h2>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MateusAntony&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br" 
-    alt="GitHub Stats"
-  />
+###
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAntony&langs_count=10&layout=compact&theme=tokyonight&locale=pt-br" 
-      alt="Top Langs"
-  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MateusAntony&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusAntony&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusAntony&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-</p>
-
-
+###
