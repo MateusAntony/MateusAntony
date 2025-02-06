@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">## Olá! 👋 Me chamo Mateus Antony  <br><br>🗺️ Tenho 22 anos e sou natural da Bahia.  <br>🎓 Atualmente, estou cursando Engenharia de Computação na UEFS.  <br>💻 Estudando Java e elaborando aplicações com Spring Boot.  <br>📊 Em breve, quero explorar mais sobre Ciência de Dados e Engenharia de Dados.</p>
+<p align="left">## Olá! 👋 Me chamo Mateus Antony  <br><br>🗺️ Tenho 22 anos e sou natural da Bahia.  <br>🎓 Atualmente, estou cursando Engenharia de Computação na UEFS.  <br>💻 Estudando Java e elaborando aplicações com Spring Boot.  <br>📊 Em breve, quero explorar mais sobre Ciência de Dados,machine learning e IA.</p>
 
 ###
 
