@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">## Olá! 👋 Me chamo Mateus Antony  <br><br>🗺️ Tenho 22 anos e sou natural da Bahia.  <br>🎓 Atualmente, estou cursando Engenharia de Computação na UEFS.  <br>💻 Estudando Java e elaborando aplicações com Spring Boot.  <br>📊 Em breve, quero explorar mais sobre Ciência de Dados,machine learning e IA.</p>
+<p align="left"> Olá! Me chamo Mateus Antony  <br><br>🗺️ Tenho 23 anos e sou natural da Bahia.  <br>🎓 Atualmente, estou cursando Engenharia de Computação na UEFS.  <br>💻 Estudando Java e elaborando aplicações com Spring Boot.  <br>📊 Em breve, quero explorar mais sobre Ciência de Dados,machine learning e IA.</p>
 
 ###
 
@@ -40,11 +40,3 @@
 
 <h2 align="left">Estatísticas</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateusAntony&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="134" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusAntony&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="134" alt="languages graph"  />
-</div>
-
-###
