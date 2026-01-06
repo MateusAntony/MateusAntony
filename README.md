@@ -39,12 +39,3 @@
 
 ###
 
-<h2 align="left">Estatísticas</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MateusAntony&show_icons=true&theme=github_dark" />
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MateusAntony&layout=compact&theme=github_dark" />
-
-</p>
-
