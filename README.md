@@ -39,3 +39,8 @@
 
 ###
 
+<h2 align="left">Estatísticas</h2>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusAntony&show_icons=true&theme=dark)
+
+
