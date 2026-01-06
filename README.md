@@ -41,6 +41,8 @@
 
 <h2 align="left">Estatísticas</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusAntony&show_icons=true&theme=dark)
-
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MateusAntony&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAntony&layout=compact&theme=dark"/>
+</p>
 
