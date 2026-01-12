@@ -40,13 +40,8 @@
 ### Estatísticas
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAntony&layout=compact&langs_count=7&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusAntony&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MateusAntony&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MateusAntony&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
 
-###  Contribuições
-
-<div align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusAntony&theme=dracula" />
-</div>
 
