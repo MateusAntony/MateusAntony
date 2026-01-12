@@ -37,5 +37,16 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-###
+### Estatísticas
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAntony&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusAntony&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</div>
+
+###  Contribuições
+
+<div align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusAntony&theme=dracula" />
+</div>
 
